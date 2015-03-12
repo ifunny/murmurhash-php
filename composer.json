@@ -1,0 +1,21 @@
+{
+    "name":              "murmurhash/murmurhash",
+    "description":       "PHP Implementation of MurmurHash3",
+    "type":              "library",
+    "license":           "MIT",
+    "homepage":          "https://github.com/doctrine/instantiator",
+    "keywords":          [
+        "hashing",
+        "algorithm"
+    ],
+    "authors": [
+        {
+            "name":     "Stefano Azzolini",
+            "email":    "lastguest@gmail.com",
+            "homepage": "https://github.com/lastguest/murmurhash-php"
+        }
+    ],
+    "require": {
+        "php": ">=5.3,<8.0-DEV"
+    }
+}

@@ -17,5 +17,8 @@
     ],
     "require": {
         "php": ">=5.3,<8.0-DEV"
+    },
+    "autoload": {
+        "files": ["murmurhash3_32_gc.php"]
     }
 }
